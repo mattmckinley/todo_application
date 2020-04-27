@@ -1,3 +1,5 @@
+/* Default styles */
+
 body {
     background-color: cadetblue;
     color: whitesmoke;
@@ -5,4 +7,17 @@ body {
 
 h1 {
     font-family: Helvetica, sans-serif;
+    font-weight: bold;
+    margin: 10px 10px 10px 10px;
+}
+
+h4 {
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+    color: darkslategrey;
+}
+
+.margin {
+    margin: 10px 10px 10px 10px;
+
 }
