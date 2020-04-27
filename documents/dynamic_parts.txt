@@ -1,0 +1,16 @@
+List of dynamic parts in the To-Do Application.
+
+- Incomplete section.
+Will contain a number of incomplete tasks. Dynamic number.
+
+- Done section.
+Will contain a number of completed tasks. Dynamic number.
+
+- Add task section.
+Will have text input box and an "add" button. Anything could be input so need to help the user write the correct format. I.e short sentence. Word limit?
+
+- Tick/Trash/Add buttons.
+Clickable button to tick once complete. Can possibly untick if didn't mean to.
+Clickable button to delete task from "completed" or "incomplete".
+Clickable button to "Add" task to "incomplete" section.
+Possible problem of clicking trash on a task you didn't mean to. Need a way to revert it back to the section.
