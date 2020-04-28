@@ -2,22 +2,30 @@
 
 body {
     background-color: cadetblue;
-    color: whitesmoke;
+    color: rgb(255, 255, 255);
 }
 
 h1 {
-    font-family: Helvetica, sans-serif;
-    font-weight: bold;
+    font-family: Vibur;
     margin: 10px 10px 10px 10px;
+    font-size: 80px;
 }
 
 h4 {
-    font-family: Helvetica, sans-serif;
-    font-weight: bold;
-    color: darkslategrey;
+    font-family: 'Baloo Tamma 2', cursive;
+    font-weight: 800;
+    font-size: 1.7em;
+    color: rgb(255, 255, 255);
 }
 
-.margin {
-    margin: 10px 10px 10px 10px;
+p {
+    font-family: 'Baloo Tamma 2', cursive;
+    font-weight: 400;
+    font-size: 1em;
+}
+
+.blank {
+    background-color: cadetblue;
+    color: cadetblue;
 
 }
